@@ -328,4 +328,4 @@ if hp > 0:
 
 if hp > 0:
     level3 = LevelThree()
-    level3.start()
+    level3.start() 
